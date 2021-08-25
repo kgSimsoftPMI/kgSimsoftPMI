@@ -127,3 +127,4 @@ PMI (®) sertifika sınavına giriş için ön koşullardan biri asgari 35 saatl
 **BT Akedemi** Proje Yönetimi Eğitimi, ara sınav ve final sınavı dışında PMI ® soru ve sınav tarzında alışkanlık kazanılması sağlamak adına özel olarak hazırlanmış sorular ile zenginleştirilmiştir.
 
 PMI ® sertifika sınavına giriş için ön koşullardan biri olan asgari 35 saatlik Proje Yönetim Eğitimi olarak geçerlidir.
+[link](https://www.btakademi.com/egitim/uygulamali-proje-yonetimi-egitimi-2244)
